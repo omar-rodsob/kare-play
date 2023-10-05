@@ -4,7 +4,7 @@
 <p>Clone the repo</p>
 
   ```
-  git clone https://github.com/github_username/repo_name.git
+  git clone git@github.com:omar-rodsob/kare-play.git
  ```
 <p>Acces to the repo</p>
 
